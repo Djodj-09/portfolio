@@ -39,6 +39,5 @@ An analytical and detail-oriented professional with a strong scientific backgrou
 
 ## 📨 Connect with me
 
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **Email:** damegeorges@gmail.com
 - **Location:** Dakar, Senegal (Available for Worldwide Remote & Freelance roles)

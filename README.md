@@ -8,7 +8,7 @@ An analytical and detail-oriented professional with a strong scientific backgrou
 ## 🚀 Key Technical Skills
 
 - **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, MySQL)
-- **Data Visualization & BI:** Power BI, Tableau, Excel (Advanced, Power Query), IBM Cognos
+- **Data Visualization & BI:** , Excel (Advanced, Power Query), IBM Cognos
 - **Data Engineering & Science:** Advanced Data Wrangling, Feature Engineering, Predictive Modeling, Machine Learning (Regression, Classification)
 - **Tools & Methodologies:** Jupyter Notebooks, Git & GitHub, Agile Data Methodology, Generative AI Application
 
